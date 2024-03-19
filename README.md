@@ -1,6 +1,8 @@
-- 👋 Hello, I’m @nayere6342
-- 🌱 I’m currently learning Computer Science
-- 😄 Pronouns: (he/him)
+```
+- ✌️ Hi, I’m @nayere6342
+- 🧠 I’m currently learning Computer Science
+- ⭐ Pronouns: (He/Him)
+```
 
 <!---
 nayere6342/nayere6342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
