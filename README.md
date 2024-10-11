@@ -1,5 +1,5 @@
 ```
-- ✌️ Hi, I’m @nayere6342
+- ✌️ Hello, I’m @nayere6342
 - 🧠 I’m currently learning Computer Science
 - ⭐ Pronouns: (He/Him)
 ```
